@@ -1,2 +1,2 @@
 # Calc
- Projeto criado para desenvolver uma calculadora.
+ projeto para desenvolver uma calculadora
