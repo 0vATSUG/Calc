@@ -1,2 +1,2 @@
 # Calculadora
- projeto para criar uma calculadora
+ Projeto criado para desenvolver uma calculadora.
